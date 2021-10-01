@@ -67,7 +67,7 @@ nav ul {
 /*--- Hero section starts here ---*/
 
 .hero {
-  background: url(/assets/images/mountainfog.jpeg);
+  background: url(assets/images/mountainfog.jpeg);
   background-size: cover;
   margin-top: 40px;
   margin-bottom: 100px;
